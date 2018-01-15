@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-ene-2018, 13:14:18
+    Author     : Grupo 1 Java
+*/
+body{
+    margin: 0;
+}
+#barra_info{
+    height: 30px;
+    background-color: #056000;
+    background-size: 100% 100%;
+    border-bottom: 3px solid #000000;
+    font-family: Calibri;
+    font-size: 16px;   
+}
+
+#parte_izq{
+    margin-top: 06px;
+    padding-left: 50px;
+    width: 650px;
+    display: inline-block;
+}
+
+#parte_der{
+    margin-top: 06px;
+    display: inline-block;
+}
+
+#headerweb {
+    background-color: black;
+    height: 220px;
+    overflow: hidden;
+    border-bottom: 3px solid #000000;
+}
+
+
+#headerweb img{
+    width: 100%;
+    margin-top: -350px;
+}
